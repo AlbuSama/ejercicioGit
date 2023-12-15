@@ -61,10 +61,10 @@ public class PreguntasYrespuestas {
 
         if (res.equals(respuestas[rand])){
 
-            System.out.println("");
+            System.out.println("has ganado");
         
         }else{
-            System.out.println("");
+            System.out.println("has perdido");
         }
         
     }
