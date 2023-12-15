@@ -41,7 +41,7 @@ public class PreguntasYrespuestas {
             "Las pestañas",
             "El caracol",
             "Silla",
-            "Navaja",
+            "Navajas",
 
             
             
